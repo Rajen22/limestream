@@ -1,0 +1,8 @@
+{
+  "name": "LimeStream TV",
+  "description": "A high-performance, ad-free 4K streaming interface designed for large screens and smart TVs, featuring Gemini-powered content discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
